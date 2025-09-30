@@ -1,8 +1,10 @@
-# Engenharia de Prompt - Material de Aula - Prof. Dr. Eduardo Wenzel Brião
+# Engenharia de Prompt - Material de Aula 
 
 Página web educacional para acesso à apresentação sobre Engenharia de Prompt.
 
 ## 📖 Sobre
+
+Prof. Dr. Eduardo Wenzel Brião
 
 Esta página fornece um link direto para a apresentação completa sobre Engenharia de Prompt, contendo:
 

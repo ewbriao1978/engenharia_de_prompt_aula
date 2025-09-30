@@ -19,4 +19,3 @@ Esta página fornece um link direto para a apresentação completa sobre Engenha
 2. Clique no botão "Acessar Apresentação Completa"
 3. Estude o material em ordem sequencial
 
-## 📝 Estrutura do Projeto
